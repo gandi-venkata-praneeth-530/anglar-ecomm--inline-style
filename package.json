@@ -37,5 +37,10 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.7.2"
-  }
+  },
+  "homepage": 
+    "https://your-username.github.io/repo-name",
+"script": {
+  "deploy": "gh-pages -d build"
+}
 }
