@@ -5,7 +5,7 @@ An e-commerce web application built using **Angular** that provides a seamless s
 ---
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live app](https://https://github.com/gandi-venkata-praneeth-530/anglar-ecomm--inline-style.netlify.app)
+🔗 [Click here to view the live app]([https://https://github.com/gandi-venkata-praneeth-530/anglar-ecomm--inline-style.netlify.app](https://6829c9face6033deb4528a34--merry-brigadeiros-8ed590.netlify.app/))
 
 
 ## 🚀 Features
