@@ -3,6 +3,10 @@
 An e-commerce web application built using **Angular** that provides a seamless shopping experience. This project demonstrates core Angular concepts like components, services, routing and dependency injection wrapped in a responsive, modern UI.
 
 ---
+## 🌐 Live Demo
+
+🔗 [Click here to view the live app](https://https://github.com/gandi-venkata-praneeth-530/anglar-ecomm--inline-style.netlify.app)
+
 
 ## 🚀 Features
 
